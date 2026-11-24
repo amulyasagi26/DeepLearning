@@ -1,0 +1,11 @@
+true_class,T-shirt/top,Trouser,Pullover,Dress,Coat,Sandal,Shirt,Sneaker,Bag,Ankle boot
+T-shirt/top,1000,0,0,0,0,0,0,0,0,0
+Trouser,69,931,0,0,0,0,0,0,0,0
+Pullover,1000,0,0,0,0,0,0,0,0,0
+Dress,995,5,0,0,0,0,0,0,0,0
+Coat,999,1,0,0,0,0,0,0,0,0
+Sandal,1000,0,0,0,0,0,0,0,0,0
+Shirt,996,0,3,1,0,0,0,0,0,0
+Sneaker,1000,0,0,0,0,0,0,0,0,0
+Bag,986,0,13,0,0,0,1,0,0,0
+Ankle boot,1000,0,0,0,0,0,0,0,0,0

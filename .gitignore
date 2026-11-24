@@ -1,0 +1,26 @@
+### Local editor and operating-system files ###
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+### Notebooks and Python environments ###
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+### Local configuration and generated experiment output ###
+.env
+.env.*
+!.env.example
+*.log
+/data/*
+!/data/README.md
+!/data/fashion_mnist_baseline.ipynb
+!/data/project_dl_671_871_spring26-1.pdf
+/runs/
+/results/
+*.pt
+*.pth

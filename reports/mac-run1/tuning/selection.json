@@ -1,0 +1,13 @@
+{
+  "trial": "lr_0.001_dropout_0.25",
+  "settings": {
+    "seed": 42,
+    "batch_size": 64,
+    "epochs": 5,
+    "learning_rate": 0.001,
+    "dropout": 0.25
+  },
+  "selection_rule": "highest final clean validation accuracy; lowest loss breaks ties",
+  "validation_accuracy": 0.9086666666666666,
+  "validation_loss": 0.24930936360359193
+}

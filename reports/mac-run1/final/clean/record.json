@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "seed": 42,
+    "batch_size": 64,
+    "epochs": 5,
+    "learning_rate": 0.001,
+    "dropout": 0.25
+  },
+  "training_condition": "none",
+  "training_examples": 54000,
+  "validation_examples": 6000,
+  "checkpoint_rule": "final epoch",
+  "elapsed_seconds": 27.108509124955162,
+  "environment": {
+    "python": "3.14.2",
+    "device": "mps",
+    "torch": "2.11.0",
+    "torchvision": "0.26.0",
+    "numpy": "2.4.2",
+    "matplotlib": "3.11.1"
+  },
+  "epoch": 5,
+  "train_loss": 0.2396354953094765,
+  "train_accuracy": 0.9112592592592592,
+  "validation_loss": 0.24930936360359193,
+  "validation_accuracy": 0.9086666666666666
+}

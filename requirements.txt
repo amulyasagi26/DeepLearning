@@ -1,0 +1,7 @@
+# Direct dependencies used for the measured mac-run1 experiment (Python 3.14.2).
+# These packages require Python >=3.11; torchvision excludes Python 3.14.1.
+# Install with: python -m pip install -r requirements.txt
+torch==2.11.0
+torchvision==0.26.0
+numpy==2.4.2
+matplotlib==3.11.1
